@@ -11,6 +11,7 @@ const CONFIG = {
   SCOPES: "https://www.googleapis.com/auth/spreadsheets"
 };
 
+
 /* =========================
    全域狀態
 ========================= */
